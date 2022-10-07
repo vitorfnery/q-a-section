@@ -6,7 +6,7 @@
 
 A Q&A page with information that can be shown or hidden by buttons.
 
-[🔗 Click here to access / Clique aqui para acessar](https://q&a-section-vitorfnery.netlify.app/)
+[🔗 Click here to access / Clique aqui para acessar](https://q-a-section-vitorfnery.netlify.app/)
 
 ## 🛠️ Technologies / Tecnologias
 
